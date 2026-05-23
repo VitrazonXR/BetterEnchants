@@ -7,6 +7,8 @@ You can enchant stuff much past their original Vanilla value and you can remove 
 
 When using this mod, it automatically enchants whatever is currently selected in your hotbar.
 
+You can download the mod here ---> https://github.com/VitrazonXR/BetterEnchants/releases/tag/Version_One
+
 # How to Use 🏫
 The style used in game is "/enchant <enchantment> <level>", so some examples could be,
 "/enchant aqua_affinity 255", 
