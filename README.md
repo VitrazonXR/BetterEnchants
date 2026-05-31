@@ -1,6 +1,6 @@
 # BetterEnchants 🪄
 A simple and useful mod for Minecraft Java Edition which lets you enchant any item with any enchantment with a value of 0-255.
-
+ 
 With this mod, you can enchant any item with any enchantment with a value of 0-255.
 
 You can enchant stuff much past their original Vanilla value and you can remove enchantments (using 0)
